@@ -27,6 +27,11 @@ Se référer surtout à [CELCAT](https://edt.uvsq.fr/cal?vt=month&dt=2023-03-13&
 
 #### 19 Septembre: Groupes, Anneaux Arithmétique (3 heures)
 
+#### 22 Septembre: Combinatoire
+
+#### 25 Septembre: Probabilités 1
+
+#### 26 Septembre: Probabilités 2
   
 ## Modalités d'évaluation :
 
@@ -36,3 +41,5 @@ TBA
 
  - [Le poly d'algèbre et d'arithmétique](docs/CM_algebre.pdf)
  - [Les exercices de TD d'algèbre et d'arithmétique](docs/TDalgebre.pdf)
+ - [Le poly de combinatoire et de probabilités](docs/CM_combi.pdf)
+ - [Les exercices de Combinatoire et de probabilités](docs/TDcombi.pdf)
