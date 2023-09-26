@@ -51,5 +51,3 @@ TBA
  - [CC1 TD3 Récurrence](docs/corr1td3.pdf)
  - [CC2 TD1 et 2 Algèbre](docs/corr2td12.pdf)
  - [CC2 TD3 Algèbre](docs/corr2td3.pdf)
- - [CC3 TD1 et 2 Arithmétique](docs/corr3td12.pdf)
- - [CC3 TD3 Arithmétique](docs/corr3td3.pdf)
