@@ -43,6 +43,7 @@ TBA
  - [Les exercices de TD d'algèbre et d'arithmétique](docs/TDalgebre.pdf)
  - [Le poly de combinatoire et de probabilités](docs/CM_combi.pdf)
  - [Les exercices de Combinatoire et de probabilités](docs/TDcombi.pdf)
+ - [Un documment pour la résolution de systèmes de congruence (restes chinois)](docs/complement_restes_chinois.pdf)
 
 ## Corrections des contrôles
 
@@ -50,3 +51,5 @@ TBA
  - [CC1 TD3 Récurrence](docs/corr1td3.pdf)
  - [CC2 TD1 et 2 Algèbre](docs/corr2td12.pdf)
  - [CC2 TD3 Algèbre](docs/corr2td3.pdf)
+ - [CC3 TD1 et 2 Arithmétique](docs/corr3td12.pdf)
+ - [CC3 TD3 Arithmétique](docs/corr3td3.pdf)
