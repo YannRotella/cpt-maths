@@ -43,3 +43,10 @@ TBA
  - [Les exercices de TD d'algèbre et d'arithmétique](docs/TDalgebre.pdf)
  - [Le poly de combinatoire et de probabilités](docs/CM_combi.pdf)
  - [Les exercices de Combinatoire et de probabilités](docs/TDcombi.pdf)
+
+## Corrections des contrôles
+
+ - [CC1 TD1 et 2 Récurrence](docs/corr1td12.pdf)
+ - [CC1 TD3 Récurrence](docs/corr1td3.pdf)
+ - [CC2 TD1 et 2 Algèbre](docs/corr2td12.pdf)
+ - [CC2 TD3 Algèbre](docs/corr2td3.pdf)
