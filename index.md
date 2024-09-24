@@ -54,7 +54,7 @@ TBA
 
  - [Le poly d'algèbre et d'arithmétique](docs/CM_algebre.pdf)
  - [Les exercices de TD d'algèbre et d'arithmétique](docs/TDalgebre.pdf)
- - [Le poly de combinatoire et de probabilités](docs/CM_combi.pdf)
+ - [Le poly de combinatoire](docs/CM_combi.pdf) et de [probabilité](docs/CM_proba.pdf)
  - [Les exercices de Combinatoire et de probabilités](docs/TDcombi.pdf)
  - [Un documment pour la résolution de systèmes de congruence (restes chinois)](docs/complement_restes_chinois.pdf)
 
