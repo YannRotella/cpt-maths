@@ -48,7 +48,7 @@ Se référer surtout à [CELCAT](https://edt.uvsq.fr/cal?vt=month&dt=2024-09-18&
   
 ## Modalités d'évaluation :
 
-TBA
+MAX((CC+E)/2,E)
 
 ## Documents
 
@@ -57,10 +57,16 @@ TBA
  - [Le poly de combinatoire](docs/CM_combi.pdf) et de [probabilité](docs/CM_proba.pdf)
  - [Les exercices de Combinatoire et de probabilités](docs/TDcombi.pdf)
  - [Un documment pour la résolution de systèmes de congruence (restes chinois)](docs/complement_restes_chinois.pdf)
+ - [Un document algorithmique pour la résolution arithmétique](docs/Franck_arithmetique_modulaire.pdf)
 
 ## Corrections des contrôles
 
  - Correction de deux récurrences [ici](docs/corr1td12.pdf) et [ici](docs/corr1td3.pdf)
+ - Correction de deux exercices d'algèbre [ici](docs/corr2td3.pdf) et [ici](docs/corr2td12.pdf)
+ - Correction des exercices d'arithmétique [ici](docs/corr3td3.pdf) et [ici](docs/corr3td12.pdf)
+ - Correction combinatoire [ici](docs/corr4.pdf)
+ - Correction probabilités [ici](docs/corr5.pdf)
+
 
 ## Annales
  - [Examen 2022-2023](docs/exam2022.pdf)
