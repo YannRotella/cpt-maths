@@ -63,7 +63,7 @@ MAX((CC+E)/2,E)
 
  - Correction de deux récurrences [ici](docs/corr1td12.pdf) et [ici](docs/corr1td3.pdf)
  - Correction de deux exercices d'algèbre [ici](docs/corr2td3.pdf) et [ici](docs/corr2td12.pdf)
- - Correction des exercices d'arithmétique [ici](docs/corr3td3.pdf) et [ici](docs/corr3td12.pdf)
+ - Correction des exercices d'arithmétique [ici](docs/corr3td3.pdf) et [ici](docs/corr3td12.pdf) et [ici](docs/Interro_3_G2_corr.pdf)
  - Correction combinatoire [ici](docs/corr4.pdf)
  - Correction probabilités [ici](docs/corr5.pdf)
 
